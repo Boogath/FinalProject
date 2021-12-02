@@ -3,7 +3,7 @@ package com.example.gordonimportsnewsletter;
 import android.app.Activity;
 
 public class Send implements java.lang.Runnable{
-
+//Test to see if GitHub updates this file. 
 
     @SerializedName("range")
     var range: String,
